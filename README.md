@@ -1,2 +1,3 @@
 # kv-code
-THIS IS MY FIRST GIT REPOSITORY
+This is my first time using git repository 
+Author- kv 
